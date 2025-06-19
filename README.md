@@ -1,2 +1,2 @@
-# Genetic-Based-Leader-Election-Algorithm-for-IoT-CloudData-Processin
+# Genetic-Based-Leader-Election-Algorithm-for-IoT-CloudData-Processing
 The system emulates distributed IoT devices and cloud nodes, optimizing task delegation through evolutionary strategies(initializing chromosome population, evaluating fitness function, followed by crossover, mutation and selection of leader). Dashboards provide real-time monitoring of device behavior and leader selection dynamics.
