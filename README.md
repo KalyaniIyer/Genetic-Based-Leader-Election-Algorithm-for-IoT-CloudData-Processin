@@ -1,10 +1,5 @@
 # Genetic-Based-Leader-Election-Algorithm-for-IoT-CloudData-Processing
 
-This project implements a Genetic Algorithm-based leader election system for optimizing task delegation in IoT-cloud environments. 
-The simulator emulates distributed IoT devices and cloud nodes, employing evolutionary strategies—including chromosome initialization, fitness evaluation, crossover, mutation, and selection—to dynamically elect a leader.
-
-An interactive Streamlit dashboard provides real-time visualization of IoT device behavior and leader selection dynamics.
-
 Research Basis:
  This implementation is based on the paper-
 
