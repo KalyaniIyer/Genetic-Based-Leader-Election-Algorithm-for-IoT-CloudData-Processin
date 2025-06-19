@@ -6,13 +6,13 @@ The simulator emulates distributed IoT devices and cloud nodes, employing evolut
 An interactive Streamlit dashboard provides real-time visualization of IoT device behavior and leader selection dynamics.
 
 Research Basis:
-This implementation is based on the paper-
+ This implementation is based on the paper-
 
 "A Genetic Based Leader Election Algorithm for IoT Cloud Data Processing"
 by Samira Kanwal, Zeshan Iqbal, Aun Irtaza, Rashid Ali, and Kamran Siddique.
 
 Setup & Execution:
-To run the simulator in VS Code or a local environment:
+ To run the simulator in VS Code or a local environment-
 
 python -m venv venv
 
